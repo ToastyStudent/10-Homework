@@ -15,7 +15,7 @@ After doing so, to use the app, one must answer the prompts which show up sequen
 If one would like to run the tests developed for this application, one need only run the command "npm run test".
 
 # Video Demo of App
-[A video demonstration of the Application]()
+[A video demonstration of the Application](./10-Homework-Video-Demo.webm)
 
 # Credits
 This entire project was built using code provided by Northwestern University's Full-stack Development Coding Bootcamp TAs from the following repository:
