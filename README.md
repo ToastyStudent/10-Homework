@@ -12,6 +12,8 @@ One must first clone this Github respoitory, run npm i to install the various no
 
 After doing so, to use the app, one must answer the prompts which show up sequentially in the terminal in order to generate a logo in the form of a .svg file that one can render in their browser.
 
+If one would like to run the tests developed for this application, one need only run the command "npm run test".
+
 # Video Demo of App
 [A video demonstration of the Application]()
 
